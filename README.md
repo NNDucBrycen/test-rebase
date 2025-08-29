@@ -6,6 +6,7 @@ This project demonstrates rebase functionality in Git workflows. It provides exa
 
 ## Installation
 
+
 Clone the repository:
 
 ```bash
